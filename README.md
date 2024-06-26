@@ -18,8 +18,7 @@ This is just a quick keyword analysis using the adwords bid keywords from the di
 
 This analysis also shows that real money keyword for this niche is “Breakdown Cover”, way more searches and way more competitive compared to “Breakdown Insurance”
 
-![image](https://github.com/temujim/claimsline/assets/13445374/96590559-e68f-476f-a02e-eee2c3107662)
-
+![image](https://github.com/temujim/claimsline/assets/13445374/61005cd7-a0ca-4aa7-8a61-dabdd3b9b8b5)
 
 Approach:
 1. Business & Topical Sense Check
